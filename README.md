@@ -675,29 +675,3 @@ DeviceNetworkEvents
 
 ---
 
-## Investigation Statistics
-
-| Metric | Value |
-|--------|-------|
-| Total Flags Investigated | 22 |
-| Dwell Time | 3 days (Dec 1–4, 2025) |
-| Systems Compromised | 2 (sys1-dept, main1-srvr) |
-| Remote Session Devices | 5 (M1-ADMIN, M2-ADMIN, YE-HELPDESKTECH, YE-HRPLANNER, YE-FINANCEREVIE) |
-| Sensitive Files Targeted | 5+ |
-| Archives Created | 3 |
-| Persistence Mechanisms | 2 (Registry Run key + Scheduled Task) |
-| MITRE Techniques Identified | 12 |
-
----
-
-## Document Information
-
-| Field | Value |
-|-------|-------|
-| Hunt Name | Crosscheck |
-| Classification | CONFIDENTIAL |
-| Created | May 2026 |
-| Primary Endpoint | sys1-dept |
-| Secondary Endpoint | main1-srvr |
-| Compromised Account | 5y51-d3p7 |
-| Status | In Progress |
